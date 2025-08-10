@@ -1,23 +1,15 @@
 ### 🌌 人生如逆旅，我亦是行人 ♥♥♥
 
 <div align="center">
-  <!-- 修复后的赛博朋克头像框 -->
-  <div style="
-    width: 220px;
-    height: 220px;
-    border-radius: 50%;
-    padding: 6px;
-    background: linear-gradient(45deg, #FF00FF, #00FFFF, #FF00FF, #00FFFF);
-    background-size: 300% 300%;
-    animation: gradientBG 3s ease infinite;
-    box-shadow: 0 0 20px #BD93F9;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto;
-  ">
-
-  </div>
+  <!-- 使用 GitHub 支持的 SVG 动画 -->
+  <img src="https://raw.githubusercontent.com/koen666/image/master/head.png" 
+       width="200" 
+       style="border-radius: 50%; border: 2px solid #FFF; filter: drop-shadow(0 0 10px #FF79C6);"
+       alt="Avatar"
+  />
+  
+  <!-- 使用 SVG 实现边框动画 -->
+  <img src="https://svgur.com/i/15hq.svg" width="220" style="position: absolute; top: 0; left: 0;" alt="Animated Border" />
 
 <!-- 赛博朋克风格统计卡片 -->
 [![Koen's Cyberpunk Stats](https://github-readme-stats.vercel.app/api?username=koen666&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&bg_color=30,0d1117,161b22&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&border_color=bd93f9&border_radius=10&custom_title=KOEN%27S%20CYBERPUNK%20STATS&ring_color=ff79c6)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,18 +17,6 @@
 <!-- 霓虹语言卡片 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koen666&layout=compact&theme=radical&bg_color=30,161b22,0d1117&title_color=00ffff&text_color=f8f8f2&border_color=00ffff&border_radius=10&card_width=400&hide_border=false&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-  <style>
-    @keyframes gradientBG {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
-      100% { transform: translateY(0px); }
-    }
-  </style>
 </div>
 
 ---
