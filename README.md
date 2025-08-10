@@ -17,7 +17,7 @@
     margin: 0 auto;
   ">
     <img 
-      src="https://raw.githubusercontent.com/koen666/image/master/head.png" 
+      src="image/head.jpg" 
       width="200" 
       style="
         border-radius: 50%;
