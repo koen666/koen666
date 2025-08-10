@@ -16,17 +16,7 @@
     align-items: center;
     margin: 0 auto;
   ">
-    <img 
-      src="image/head.jpg" 
-      width="200" 
-      style="
-        border-radius: 50%;
-        border: 2px solid #FFF;
-        filter: drop-shadow(0 0 10px #FF79C6);
-        animation: float 3s ease-in-out infinite;
-      "
-      onerror="this.onerror=null;this.src='https://via.placeholder.com/200/BD93F9/FFFFFF?text=KOEN'"
-    />
+
   </div>
 
 <!-- 赛博朋克风格统计卡片 -->
