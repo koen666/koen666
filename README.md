@@ -1,15 +1,30 @@
 ### 🌌 人生如逆旅，我亦是行人 ♥♥♥
 
 <div align="center">
-  <!-- 使用 GitHub 支持的 SVG 动画 -->
-  <img src="https://raw.githubusercontent.com/koen666/image/master/head.png" 
-       width="200" 
-       style="border-radius: 50%; border: 2px solid #FFF; filter: drop-shadow(0 0 10px #FF79C6);"
-       alt="Avatar"
-  />
-  
-  <!-- 使用 SVG 实现边框动画 -->
-  <img src="https://svgur.com/i/15hq.svg" width="220" style="position: absolute; top: 0; left: 0;" alt="Animated Border" />
+  <div style="
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    padding: 6px;
+    background: conic-gradient(from 0deg, #FF00FF, #00FFFF, #FF00FF);
+    box-shadow: 0 0 20px #BD93F9;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  ">
+    <img 
+      src="https://raw.githubusercontent.com/koen666/image/master/head.png" 
+      width="200" 
+      style="
+        border-radius: 50%;
+        border: 2px solid #FFF;
+        filter: drop-shadow(0 0 10px #FF79C6);
+      "
+      alt="Koen's Avatar"
+      onerror="this.src='https://via.placeholder.com/200/BD93F9/FFFFFF?text=KOEN'"
+    />
+  </div>
 
 <!-- 赛博朋克风格统计卡片 -->
 [![Koen's Cyberpunk Stats](https://github-readme-stats.vercel.app/api?username=koen666&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&bg_color=30,0d1117,161b22&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&border_color=bd93f9&border_radius=10&custom_title=KOEN%27S%20CYBERPUNK%20STATS&ring_color=ff79c6)](https://github.com/anuraghazra/github-readme-stats)
