@@ -1,6 +1,7 @@
 ### 🌌 人生如逆旅，我亦是行人 ♥♥♥
 
 <div align="center">
+  <!-- 修复后的赛博朋克头像框 -->
   <div style="
     width: 220px;
     height: 220px;
@@ -24,6 +25,7 @@
         filter: drop-shadow(0 0 10px #FF79C6);
         animation: float 3s ease-in-out infinite;
       "
+      onerror="this.onerror=null;this.src='https://via.placeholder.com/200/BD93F9/FFFFFF?text=KOEN'"
     />
   </div>
 
