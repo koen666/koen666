@@ -29,14 +29,11 @@
 ---
 
 <div align="center">
-  <!-- 使用 hits.sh 的访客计数器 -->
+  <!-- 使用更稳定的访客计数器 -->
   <img src="https://hits.sh/github.com/koen666.svg?style=for-the-badge&label=Visitors&color=ff69b4&labelColor=bd93f9" alt="Visitor Count"/>
-  
-  <!-- 或者使用 profile-counter.glitch.app 的新域名 -->
-  <!-- <img src="https://profile-counter.glitch.app/koen666/count.svg" alt="Visitor Count"/> -->
   
   <p>✨ 感谢来访！期待与你相遇 ✨</p>
   
-  <!-- 可选：添加动态线条分隔 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&width=435&lines=Keep+Coding+Keep+Learning+❤️" alt="Typing SVG" />
+  <!-- 优化后的 Typing SVG（确保加载） -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Keep+Coding+Keep+Learning+❤️;Welcome+to+my+GitHub+profile!;代码如诗，写意人生~" alt="Typing SVG" />
 </div>
