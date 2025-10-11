@@ -18,8 +18,6 @@
 </div>
 
 ---
-
-## ✨ 星月交辉 • 与我共鸣
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 [![数字墨香](https://img.shields.io/badge/📜_数字墨香-FF79C6?style=for-the-badge&logo=gitbook&logoColor=white)](https://koen666.github.io/)
