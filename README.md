@@ -17,7 +17,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&color=FF9FF3&center=true&width=800&lines=✿••••••••••••••••••••••••••••••••••✿" alt="divider">
 </div>
 
----
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 [![数字墨香](https://img.shields.io/badge/📜_数字墨香-FF79C6?style=for-the-badge&logo=gitbook&logoColor=white)](https://koen666.github.io/)
@@ -26,10 +25,9 @@
 
 </div>
 
-## 🌌 技术星图 • 璀璨银河
+
 <div align="center">
 
-### 🛰️ 核心星群
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 ![Modern_C++_23](https://img.shields.io/badge/🪐_Modern_C++_23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,7 +36,6 @@
 
 </div>
 
-### 🛠️ 星际装备
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 ![CLion_IDE](https://img.shields.io/badge/🔭_CLion_IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
@@ -48,10 +45,8 @@
 </div>
 </div>
 
-## 🎑 心灵星云 • 诗意栖居
 <div align="center">
 
-### 🎴 二次元宇宙
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 ![樱落物语](https://img.shields.io/badge/🌸_樱落物语-FF69B4?style=for-the-badge&logo=steam&logoColor=white)
@@ -60,7 +55,6 @@
 
 </div>
 
-### 📚 精神花园
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
 ![诗与远方](https://img.shields.io/badge/📖_诗与远方-9CF?style=for-the-badge&logo=read-the-docs)
@@ -70,7 +64,6 @@
 </div>
 </div>
 
----
 
 <div align="center">
 <!-- 访客计数 -->
