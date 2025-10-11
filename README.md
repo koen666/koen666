@@ -1,5 +1,3 @@
-### 🌸 浮生若梦 为欢几何 • 代码如诗 ♥
-
 <!-- 星空分隔线 -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&pause=1000&color=FF79C6&center=true&width=800&lines=⋆⋅☆⋅⋆――――――⋆⋅☆⋅⋆――――――⋆⋅☆⋅⋆" alt="divider">
