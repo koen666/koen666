@@ -12,8 +12,6 @@
 
 
 <div align="center">
-<!-- 访客计数 -->
-<img src="https://count.getloli.com/get/@koen666?theme=moebooru" alt="visitors">
 
 <!-- 动态诗句 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+KuaiLe&size=20&duration=4000&pause=1000&color=BD93F9&center=true&width=600&lines=『代码如诗落星尘』;『一行一念一乾坤』;『夜阑独酌月光白』;『笑看浮生若梦痕』" alt="poetic-code">
