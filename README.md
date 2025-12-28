@@ -12,7 +12,8 @@
 - 🎓 **Undergraduate Student** @ [Wuhan University (WHU)](https://www.whu.edu.cn/)
 - 🔭 **Research Interest**: Cross-Modality Person Re-Identification (VI-ReID)
 - 🛠️ **Tech Stack**: PyTorch, Python, React, TypeScript, Linux/HPC
-- 🌱 **Learning**: Advancing in Multimodal Learning & Large Language Models.
+
+Dedicated to continuous learning, aiming to become a pioneer who changes the world through AI.
 
 ---
 
