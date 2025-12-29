@@ -61,8 +61,5 @@ Dedicated to continuous learning, aiming to become a pioneer who changes the wor
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
 </p>
 
----
+> “Code. Learn. Break. Fix. Repeat.” – That's my vibe.
 
-> 🧩 “Code. Learn. Break. Fix. Repeat.” – That's my vibe.
-
----
