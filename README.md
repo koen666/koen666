@@ -50,3 +50,19 @@ Dedicated to continuous learning, aiming to become a pioneer who changes the wor
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+### 🔥 Just Vibes...
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/>
+</p>
+
+---
+
+> 🧩 “Code. Learn. Break. Fix. Repeat.” – That's my vibe.
+
+---
