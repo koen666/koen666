@@ -1,7 +1,4 @@
 <h1 align="center">👋 Hey there, I'm KeHe</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2EC4B6&center=true&vCenter=true&width=440&lines=Full-stack+Dev+%7C+Python+Lover+%7C+Linux+User;Building+AI+and+Bots+everyday;Here+to+Break+and+Build+Cool+Stuff" alt="Typing SVG" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=koen666&show_icons=true&include_all_commits=true&theme=radical" alt="KeHe's GitHub stats" height="185px" />
