@@ -13,7 +13,7 @@
 - 🔭 **Research Interest**: Cross-Modality Person Re-Identification (VI-ReID)
 - 🛠️ **Tech Stack**: PyTorch, Python, React, TypeScript, Linux/HPC
 
-Dedicated to continuous learning, aiming to become a pioneer who changes the world through AI.
+> Dedicated to continuous learning, aiming to become a pioneer who changes the world through AI.
 
 ---
 
