@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hey there, I'm KeHe</h1>
 
----
-
 ### 🔥 Just Vibes...
 
 <p align="center">
